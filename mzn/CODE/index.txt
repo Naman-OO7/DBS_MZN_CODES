@@ -1,0 +1,13 @@
+<center>
+
+     <img src="/images/web works.png" alt="web_works_image" width="400" heigh="900"> 
+     <br>
+     <br>
+     <img referrerpolicy="no-referrer" src="https://static.vecteezy.com/system/resources/thumbnails/050/393/628/small/cute-curious-gray-and-white-kitten-in-a-long-shot-photo.jpg" alt="car_image">
+     <br>
+     <a href="https://www.amazon.in" target="_blank" rel="noopener noreferrer">amazon</a>
+     <br>
+     <br>
+     <video src="/images/AG.mp4"  autoplay muted loop controls> AG VIDEO</video>
+     <video src="https://www.pexels.com/download/video/34684277/" controls height="500" width="500"></video>
+     </center>
