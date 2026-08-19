@@ -45,3 +45,47 @@
             </ul>
         </nav>
     </header>
+    <br>
+    <br>
+    <table >
+      <thead >
+        <tr><th>HTML</th>
+        <th>CSS</th>
+        <th>JS</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Hypertext Mark up language</td>
+        <td>Cascading Style Sheet</td>
+        <td>JavaScript</td></tr>
+      </tbody>
+      <tfoot>
+        <tr><td>Rs.199</td>
+        <td>Rs.299</td>
+        <td>Rs.399</td></tr>
+      </tfoot>
+    </table>
+    <style>
+      table, th, td {
+        border: 2px solid black;
+        border-collapse: collapse;
+      }
+      th, td{
+        padding: 10px;
+      }
+      
+    </style>
+    <br>
+    <br>
+    <div>
+      <p>this is x<sub> 2</sub></p>
+      <br>
+      <p>this is also x<sup> 2</sup></p>
+    </div>
+    <br>
+    <br>
+    <audio src="/images/district1_bgm.mp3 " controls loops muted autoplay>This is a audio tag</audio>
+    <br>
+    <br>
+    <marquee style="color: chocolate; font-size: 30px;" behavior="loops" direction="right">This is an example of marquee tag.</marquee>
+  
+</center>    
