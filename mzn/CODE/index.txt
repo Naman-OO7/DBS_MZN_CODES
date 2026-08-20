@@ -25,22 +25,22 @@
         <dt>Css</dt><dd>Cascading Style Sheet</dd> 
          
         <dt>JavaScript</dt><dd>Programming language</dd>
-        
     </dl>
     <br>
     <br>
     <header style="background-color: beige; border: 2px solid black; border-radius: 40px;">
         <nav style="display: flex ;justify-content: space-between; align-items: center;">
             <div style="display: flex; gap: 20px;">
-            <img src="data:image/png;base64,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" 
-            style="border-radius: 40px"  width="100px" height="100px" alt="">
-            <h1>website name</h1>
+
+            <a href="https://www.bmw.in/en/index.html" target="_blank" rel="noopener noreferrer">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZqTW2-rJLtHSY7f7HUKBnFljVoZRSb7svNXiIGVf4OA&s=10"style="border-radius: 50px"  width="100px" height="100px" alt=""></a>
+            <h1 style="padding-top: 16px ;">Car website</h1>
             </div>
             <ul style="display: flex; margin-right: 30px; font-family: sans-serif; list-style: none; gap: 20px;">
-                <li><a  style="text-decoration: none; color: brown; font-size: 25px;  font-weight: 500;" href="">Home</a></li>
-                <li><a  style="text-decoration: none; color: brown; font-size: 25px; font-weight: 500;" href="">About</a></li>
+                <li><a  style="text-decoration: none; color: brown; font-size: 25px;  font-weight: 500;" href="https://www.bmw.in/en/all-models.html">Home</a></li>
+                <li><a  style="text-decoration: none; color: brown; font-size: 25px; font-weight: 500;" href="https://www.bmw.in/en/topics/Fascination-BMW/electromobility2020-new/electric-cars.html">About</a></li>
+                <li><a  style="text-decoration: none; color: brown; font-size: 25px; font-weight: 500;" href="https://www.bmw.in/en/service-portal.html">Services</a></li>
                 <li><a  style="text-decoration: none; color: brown; font-size: 25px; font-weight: 500;" href="">Contact Us</a></li>
-                <li><a  style="text-decoration: none; color: brown; font-size: 25px; font-weight: 500;" href="">Services</a></li>
                 <li><a  style="text-decoration: none; color: brown; font-size: 25px; font-weight: 500;" href="">Courses</a></li>
             </ul>
         </nav>
@@ -87,5 +87,26 @@
     <br>
     <br>
     <marquee style="color: chocolate; font-size: 30px;" behavior="loops" direction="right">This is an example of marquee tag.</marquee>
+    <iframe 
+  src="https://youtube.com" 
+  width="600" 
+  height="400" 
+  title="Embedded Video Player"
+  allowfullscreen
+  sandbox="allow-scripts allow-same-origin allow-presentation">
+  <p>Your browser does not support iframes.</p>
+</iframe>     
+
+    <br>
+    <br>
+    <iframe src="https://www.geeksforgeeks.org/html/html-tutorial/" width="1000" height="500" title="geeksforgeeks website"></iframe>
+    <br>
+    <br>
+    <embed style="background-color: red;" src="https://www.geeksforgeeks.org/html/html-tutorial/" type="document" width="1000" height="500" title="geeksforgeeks website"></embed>
+    <br>
+    <br>
+    <embed style="background-color: red;" src="/images/ML.pdf" type="document" width="1000" height="500" title="geeksforgeeks website"></embed>
+    <br>
+    <br>
   
 </center>    
