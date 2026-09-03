@@ -260,7 +260,32 @@
   </header>
 <br>
 <br>
+<div style="border: 2px solid black; padding: 20px; border-radius: 20px; width: 50%; background-color: aquamarine;">
+<fieldset style="border: 2px solid red; border-radius: 20px; padding: 20px;">
+<legend style="font-weight: 500; font-size: 30px;">Imp. Form</legend>
+<form action="database.php" method="post">
+  <label for="name">Name:</label> <input type="text" id="name" name="name" required><br><br>
+  <label for="age">Age:</label> <input type="number" id="age" name="age" required><br><br>
+  <label for="radio">Gender:</label><input type="radio" id="male" name="gender" value="male" required> <label for="male">Male</label>
+  <input type="radio" id="female" name="gender" value="female" required> <label for="female">Female</label> <br> <br>
+  <label for="email">Email:</label> <input type="email" id="email" name="email" required><br><br>
+  <label for="password">Password:</label> <input type="password" id="password" name="password" required><br><br>
+  <label for="phone">Phone:</label> <input type="tel" id="phone" name="phone" required><br><br>
+  <label for="address">Address:</label> <textarea name="address" id="address" required></textarea><br><br>
+  <label for="box">Stream:</label>
+  <select id="box" name="box" required>
+    <option value="">Select Stream!!</option>
+    <option value="CS">CS</option>
+    <option value="IT">IT</option>
+    <option value="AI/ML">AI/ML</option>
+  </select><br><br>
+  <input type="submit" style="padding: 20px; border-radius: 30%; border: 2px solid blue;" value="Submit">    
 
+</form>
+</fieldset>
+</div>
+<br>
+<br>
 
 
 
