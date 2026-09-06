@@ -20,7 +20,7 @@
     <br>
     <br>
     <dl>
-        <dt>Html</dt><dd>Hyper Text Markup Language</dd>
+        <dt>Html</dt><dd>Hyper Text Markup Language</dd>.
         
         <dt>Css</dt><dd>Cascading Style Sheet</dd> 
          
