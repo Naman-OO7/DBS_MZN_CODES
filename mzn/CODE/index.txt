@@ -24,7 +24,7 @@
         
         <dt>Css</dt><dd>Cascading Style Sheet</dd> 
          
-        <dt>JavaScript</dt><dd>Programming language</dd>
+        <dt>JavaScript</dt><dd>Programming language</dd>.
     </dl>
     <br>
     <br>
