@@ -64,7 +64,7 @@
         <td>Rs.399</td></tr>
       </tfoot>
     </table>
-    <style>
+    <style> ->inline css
       table, th, td {
         border: 2px solid black;
         border-collapse: collapse;
