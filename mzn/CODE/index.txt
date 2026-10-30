@@ -113,7 +113,8 @@
   js is important for programming. 
   html is important for web designing. 
   html is important for web development. 
-  css is important for web designing. js is important for web development.
+  css is important for web designing. 
+  js is important for web development.
   
 
 
