@@ -109,7 +109,8 @@
     <br>
     <br>
     html is  terminal task. css is also terminal task. js is also terminal task..
-  css is important for designing. js is important for programming. html is important for web designing. html is important for web development. css is important for web designing. js is important for web development.
+  css is important for designing.
+  js is important for programming. html is important for web designing. html is important for web development. css is important for web designing. js is important for web development.
   
 
 
